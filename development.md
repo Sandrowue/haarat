@@ -6,3 +6,4 @@ To avoid merging conflicts always create a sub-branch for every featrure or modu
 tested and approved it will be merged to the development branch. If a feature (1) depends on another feature (2) development branch can be remerged 
 to the feature branch (1) after feature (2) has been merged into the development branch. Never merge feature branches directly to ech other. 
 
+![Branching drawio](https://github.com/Sandrowue/haarat/assets/71585959/4ea9e71e-9599-4615-aa8a-df3abbedc21d)
